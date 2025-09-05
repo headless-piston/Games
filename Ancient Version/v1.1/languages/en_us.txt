@@ -1,0 +1,162 @@
+choose the language:(1 for English,2 for Chinese)
+press 1 to begin the game
+login(1) or create(2)
+choose a number to login
+successful to login!
+the number or the password is wrong,please try again
+choose a number to create(choose 0 to cancel)
+it is canceled...
+set the password(6 words)
+successful to create
+this number is already appeared,please change your number
+this number is not in the list
+show the password
+the number is unappeared,please create it or try another one
+if you want to continue,please press 1
+Now you have:
+hp
+xp
+level
+candy
+hp+ each day
+Get into a random conversation(1) or try one candy(2)
+You Upgrade
+Level
+s
+!
+You Died!
+You lose 
+You get 
+and lose
+and get
+,and 
+and 
+ hp.
+ xp.
+ candy.
+1
+You have hp:
+You have xp:
+(Yes:1,No:0)
+(Carefully:1,A little:0)
+(Yes:1,No:0,Run:2)
+Nothing else happens.
+Nothing else happens...
+If you want to exit,press 0
+now you are in the administrator mod...
+choose a number to change,or press '0' to exit
+press any key to exit...
+choose to delete(0),change the password(1),change the hp(2),change the xp(3),change the lv(4),change the cd(5) or change the hup(6)
+successful to delete
+set the new password(6 words)
+successful to change
+change it into:
+if you want to continue,tell the password again,or press 0 to exit
+Now you have candy:
+You feel very comfortable.And in the same time,your body become stronger.
+You feel very uncomfortable!This candy is a bad one!
+You feel very sweet,and not any more special feelings.
+You have no candy.Please try to get more
+candies
+Nothing happens...But you walk into a deep hole.
+You fall into a lake and meet a monster of level:
+You win it and get some xp.
+You are lost and you get little xp.
+You meet an old man.He asks you:
+Do you want to buy this book?
+You read and understand this book successfully,and you get much xp.
+This book is similar to you!You are mixed,and...you get big hurt!
+You cannot understand this book,and nothing else happens.
+Can you fight with me for fun?
+You win.The old man is very happy,and he gives you a notebook.You learn a lot from it.
+You are lost.The old man laughes,and he tells you it is very common to be lost.But you do not feel much better.
+Is it your thing?
+The old man take the thing into his clothes.He says:It is my thing.You lied.
+The old man gives you the axe.He says:Please do not let your things lost.Remember!
+When you are walking through the forest,you find a
+ monster.
+Will you fight with it?
+You win,and you get some xp.
+You are lost,and you get hurt.
+ peach with a good smell.
+Will you eat it?
+This is a trap!You have been poisoned!
+It tastes good and your body become stronger.
+ human who are in such a pain.
+You get into a trouble!He is faking it.When you are getting near him,he suddenly wake up and hit you!
+You hit him back successfully.He runs away.
+He hits you hard,and steals some of your money.
+This man is very thankful to you.He give you something as the gift.
+ tree which wood is very good for your body while you taking breaks.
+Do you cut it down?
+Oh,the tree is a monster...You have to fight with it!
+You win,and you get much xp from it.
+You lost.The monster gets some of your spirit.You become very weak.
+You cut down the tree smoothly.
+ butterfly flying in the sky,and it seems letting you go with it.
+You seem only look at the butterfly,and do not notice the big hole under your feet...
+The butterfly leads you to a good place to practice your skills.
+When you are practicing your skills,you meet a child.He says:
+Can you help me solve this problem?
+You solve this,and the child is so happy that he gives you some special candies.
+You can not solve this either.The child is unhappy,and you,too.
+Can I be your student?
+Your skills are great to the child.Both you are happy,so the child give you some candies as the gift of learning from you.
+You realize that this kid is even stronger than you...
+May I send this poor cat to you?
+Although you try your best to save this cat,it dies no long goes.Both you are sad.
+You save the cat successfully.You are very happy.The child gives you some candies to show his happiness.
+When you are fishing,
+you find a box floating on the water.Do you open it?
+You find a book in it.After reading it,you feel that your body is full of enegry.
+You find a ghost in it!It gets some of your spirit!
+you feel that a big fish is on the hook.Will you try to get it?
+You pull it out,but...It is a leather boot.
+You pull the big fish out successfully,and after eating it,you become much stronger.
+You are failed to catch it,and you fall into the water.
+you meet a child shouting 'help' in the water.Do you save him?
+You save the child successflly,and you get some candy from the child.
+You touch him,but you can't save him successfully.
+Oh,no!The water is dangerous to you too!You get hurt!
+it rains.Do you want to continue fishing?
+Suddenly,a monster appears in the thunderstorm.It runs so fast that you have to face it.
+You win it.After this,you get much xp.
+You are lost.After this,you get big hurt.
+In the storm,you get something,but you may lose something,too.
+You have a cold after this.But you also get some xp.
+You finish this trip smoothly.
+On the way home,you fall into a hole.But lukily,you find a box that some candy in it.
+a frog appears.You find that this frog is a frog with golden light.Will you catch it?
+When you are getting near to it,it jumps away suddenly.It scares you so much that you fall down and eat a mouthful of mud.
+You catch it smoothly and quikely.You find that you can get much xp by only staying beside of it.
+A heavy storm breaks your house.How will you fix it?
+Now you find a special grass that good for you while cleaning the rubbish from the broken house.Will you pick it up?
+You pick it up and nothing else happens.You eat it,and get much better.
+You pick it up,but you find that it is a bad one.
+You find that it is only a common grass with some blue and red things...
+When you are cleaning the broken house,the wood reminds you that you might use some good woods to build the house.Will you use them agian?
+You find that the wood is very special to you.It helps you a lot while living in the house that uses a piece of this wood.
+Yeah it is a good wood,but now it turns bad...
+Oh,you are wrong.It is just a common wood.
+You find a candy that you have never seen.Will you try it?
+You find that it is only a stone.
+You find that it is a real candy...
+You meet a fairy.You are so lucky!And you get many things from him.
+You get 300 hp,3000 xp and 30 candy.
+You meet a thieve who is stealing things from others' house.But you are surprised that he asks you if you can do it with him.
+You steal something from this house successfully.
+Someone finds you.Will you fight with this thieve?
+The thieve betray you!He hits you too,and you get big hurt!
+You win.You get more things from the man who finds you.
+You lost.You are hurt by this man and people who this man calls.
+You are failed to run away.You are caught to this house's owner.
+You run away successfully.
+You hit the thieve away successfully.
+You are lost.The thieve hits you hard and steal some of your things.
+You meet a beautiful woman who is doing chores.She says:Can you help me with this?I can't pull it up.
+You pull up that successfully.The woman let a child give you some candy.
+You can't pull up that either.You are unhappy.
+You meet a man who is reading a book.He asks:Do you want to read it with me?
+This man is a bad man...While you are reading this book carefully,he hits you hard and get some of your things.
+You read this book happily,and you learn much from the book and the man.
+You read this book happily,but...You can't understand it,and the man laughs at you.
